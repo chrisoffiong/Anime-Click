@@ -1,13 +1,13 @@
 {
-  "main.css": "/Clicky-Game/static/css/main.012a2135.chunk.css",
-  "main.js": "/Clicky-Game/static/js/main.00e80c8a.chunk.js",
-  "main.js.map": "/Clicky-Game/static/js/main.00e80c8a.chunk.js.map",
-  "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
-  "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
-  "static/js/2.884c28c3.chunk.js": "/Clicky-Game/static/js/2.884c28c3.chunk.js",
-  "static/js/2.884c28c3.chunk.js.map": "/Clicky-Game/static/js/2.884c28c3.chunk.js.map",
-  "index.html": "/Clicky-Game/index.html",
-  "precache-manifest.efe4d32002e1f946742379e58f9518f5.js": "/Clicky-Game/precache-manifest.efe4d32002e1f946742379e58f9518f5.js",
-  "service-worker.js": "/Clicky-Game/service-worker.js",
-  "static/css/main.012a2135.chunk.css.map": "/Clicky-Game/static/css/main.012a2135.chunk.css.map"
+  "main.css": "/Anime-Click/static/css/main.012a2135.chunk.css",
+  "main.js": "/Anime-Click/static/js/main.3c74ea1a.chunk.js",
+  "main.js.map": "/Anime-Click/static/js/main.3c74ea1a.chunk.js.map",
+  "runtime~main.js": "/Anime-Click/static/js/runtime~main.65f04d62.js",
+  "runtime~main.js.map": "/Anime-Click/static/js/runtime~main.65f04d62.js.map",
+  "static/js/2.884c28c3.chunk.js": "/Anime-Click/static/js/2.884c28c3.chunk.js",
+  "static/js/2.884c28c3.chunk.js.map": "/Anime-Click/static/js/2.884c28c3.chunk.js.map",
+  "index.html": "/Anime-Click/index.html",
+  "precache-manifest.256651c2b594f45b8b5b6ff574c6718d.js": "/Anime-Click/precache-manifest.256651c2b594f45b8b5b6ff574c6718d.js",
+  "service-worker.js": "/Anime-Click/service-worker.js",
+  "static/css/main.012a2135.chunk.css.map": "/Anime-Click/static/css/main.012a2135.chunk.css.map"
 }
